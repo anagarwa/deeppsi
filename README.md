@@ -11,9 +11,9 @@ This repository provides a tool to run Lighthouse multiple times on a given URL 
 1. Install Lighthouse CLI using the following command:
    ```sh
    npm install -g lighthouse
-2. check the installation
-   ```sh 
-  lighthouse --version
+2. check the installation:
+   ```sh
+   lighthouse -version
 
 ## Setup
 Copy and paste lighthouse_aggregator.py into your local machine.
