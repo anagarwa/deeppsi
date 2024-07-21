@@ -25,6 +25,7 @@ Run the aggregator script with the following command:
 python3 lighthouse_aggregator.py "<url>" --runs <numOfTimesItNeedToRun>
 
 Example
+
 ```sh
 python3 lighthouse_aggregator.py "https://main--icicidirect--aemsites.hlx.live/research/equity?delayMartech=0" --runs 10
 
